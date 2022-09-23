@@ -1,4 +1,7 @@
 # Crack
+<p align="left">
+<img src='https://github.com/Alienrazor/Crack/blob/main/IMG_20220923_101236.JPG' style="height:600px;width:300px;" >
+
 
 # TERMUX
 ```
