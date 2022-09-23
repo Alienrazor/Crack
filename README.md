@@ -1,6 +1,6 @@
 # Crack
 
-#TERMUX
+# TERMUX
 ```
 • pkg install python2 && git -y
 • pip2 install requests mechanize tqdm
